@@ -1,0 +1,27 @@
+﻿Correções a serem implementadas na aplicação CUCA 
+
+
+Sumário:
+
+* Página de Login
+* Página de Cadastro
+* Página de atualização de Usuário
+
+
+ 1. Página de Login
+
+	a. Login não é possível. Falha na autenticação com inserção de dados corretos.
+
+
+ 2. Página de Cadastro
+
+	a. adicionar a opção "produtores e técnicos" a aba de seleção de Segmento Cultural - a pedido do Cadu.
+	b. Adicionar a opção "Outros" - com caixa de descrição na opção Situação de trabalho - a pedido do Cadu.
+	c. Adicionar apenas a opção "Sim" - nas duas últimas afirmações da segunda página de cadastro - a pedido do Cadu.
+
+	obs: não é possível completar o cadastro na base de homologação pois o botão de prosseguir da segunda página de cadastro está inalcançável.	
+
+ 3.  Página de atualização de Usuário
+	
+	Aguardando funcionamento do login para teste.
+
